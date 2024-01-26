@@ -20,9 +20,9 @@ This project is a classic Tic-Tac-Toe game implemented as a web application. It 
 
 ## How to Play
 
-1. Open the [live demo](#demo)
+1. Open the [[live demo](https://sahilsingh3410.github.io/tic-tac-toe/)]
 2. Take turns clicking on the board to make your moves.
 
 ## Demo
 
-Check out the live demo [here](#https://sahilsingh3410.github.io/tic-tac-toe/).
+Check out the live demo [[here](https://sahilsingh3410.github.io/tic-tac-toe/)]
